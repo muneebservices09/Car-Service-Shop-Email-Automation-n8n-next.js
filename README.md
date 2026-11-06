@@ -81,7 +81,6 @@ The workflow executes a **Human-Mimicry follow-up sequence**:
 
 ## ✍️ Author
 **Muneeb Ali Khan**
-- **GitHub:** [@Muneeb20019](https://github.com/Muneeb20019)
 - **LinkedIn:** [Muneeb Ali Khan](https://www.linkedin.com/in/muneeb-ali-khan-2a1675365)
 - **Live Demo:** [Click Here to View](https://full-stack-project-rosy.vercel.app)
 
